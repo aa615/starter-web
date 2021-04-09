@@ -10,6 +10,10 @@ Second line to purpose
 
 ## Introduction
 
+## How to Contribute
+
+Please fork this repo and then issue pull request for review.
+
 ## Deployment
 
 Deployment can be on any web server
